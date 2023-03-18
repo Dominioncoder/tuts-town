@@ -1,0 +1,47 @@
+body {
+    background-color: #FAF8DA;
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans';
+    
+
+}
+.town {
+    font-size: 75px;
+    text-align: center;
+    color: #205D76;
+}
+.town-image {
+    width: 1000px;
+}
+.header {
+    text-align: center;
+}
+.Sleep {
+    color: darkslateblue;
+    width: fit-content;
+    margin-bottom: 5px;
+    padding-right: 10px;
+}
+.section {
+    display: flex;
+    display: -we.bkit-flex;
+    margin: 50px auto;
+    width: 300px;
+}
+.ul {
+    padding-top: 10px;
+    padding-left: 20px;
+}   
+.town-footer {
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}   
+.town-div {
+    margin: 10px;
+   
+} 
+
+
